@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bmcl.refactoring.example6.TreeTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-11-05T22:51:47" hostname="DESKTOP-ECHP5B9" time="0.086">
+  <properties/>
+  <testcase name="testTreeSetLocation()" classname="com.bmcl.refactoring.example6.TreeTest" time="0.045"/>
+  <testcase name="testToString()" classname="com.bmcl.refactoring.example6.TreeTest" time="0.015"/>
+  <testcase name="testAddAppraisal()" classname="com.bmcl.refactoring.example6.TreeTest" time="0.003"/>
+  <testcase name="testNextAppraisalNotOverdue()" classname="com.bmcl.refactoring.example6.TreeTest" time="0.004"/>
+  <testcase name="testTreeCreation()" classname="com.bmcl.refactoring.example6.TreeTest" time="0.005"/>
+  <testcase name="testNextAppraisalOverdue()" classname="com.bmcl.refactoring.example6.TreeTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
